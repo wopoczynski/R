@@ -1,0 +1,28 @@
+
+1. Microarray - Affymetrix
+	- zapoznaæ siê i krótko opisaæ budowê platform firmy Affymetrix
+Internetowa baza danych oraz portal na ktorym mozemy znalesc informacje oraz nowosci ze swiata bioinformatki, a takze jest to lider w branzy mikromcierzy 
+	- zapoznaæ siê i krótko opisaæ formaty plików: .cel, .cdf, .chp, .gin, .psi
+2. NCBI GEO
+	- rozwin¹æ skróty NCBI i GEO oraz podaæ europejskie odpowiedniki tego typu baz danych
+	- zapoznaæ siê z baz¹ danych GEO (np. mo¿liwoœciami jej przeszukiwania)
+	- co oznaczaj¹ skróty GSE, GSM, GPL
+3. Dane
+	- plik Targets.txt
+	- wyszukaæ w bazie danych GEO próbki przedstawione w pliku Targets.txt i opisaæ
+		- w jakim eksperymencie zosta³y wykorzystane dane próbki, podaæ cel eksperymentu
+		- rodzaj wykorzystanych komórek
+		- sposób obróbki i wzrostu komórek
+		- wymieniæ jakie cenne informacje mo¿emy jeszcze wydobyæ
+		- jakie dane s¹ mo¿liwe do pobrania osobno dla eksperymentu oraz próbek
+	- automatyczne pobieranie plików .cel ( u¿ywaj¹c œrodowiska R i pakietu 'GEOquery' )
+	- wczytanie danych
+4. Analiza i interpretacja
+
+... za tydzieñ
+
+5. Gene Ontology
+	- opisaæ cel projektu GO i budowê bazy danych
+	- zapoznaæ siê i krótko opisaæ formaty plików .OBO oraz gaf 2.0 (GO Annotation File)
+	- jakie relacje mog¹ wystêpowaæ pomiêdzy terminami GO
+	- co to jest GO Evidence Codes
